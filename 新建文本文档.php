@@ -1,0 +1,1 @@
+print "this is a test"#输出这是测试文档
